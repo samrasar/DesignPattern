@@ -1,4 +1,4 @@
-package FacroryDP;
+package BuilderDP;
 
 public class Shop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package BuilderDP;
+package FactoryDP;
 
 public class OSFactory {
     public OS getInstance(String str) {
